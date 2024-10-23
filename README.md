@@ -1,5 +1,6 @@
 telegraf
-![Telegraf-system-dashboard1-Grafana-10-22-2024_12_31_PM](https://github.com/user-attachments/assets/d5db4ce5-6ab1-438a-937b-be123876ccda)
+![Home-Grafana-10-23-2024_06_19_PM](https://github.com/user-attachments/assets/24bd0983-4809-40aa-bb55-8252de1f20fd)
+
 
 
 prometeus
